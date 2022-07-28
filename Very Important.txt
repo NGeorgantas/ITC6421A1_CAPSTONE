@@ -1,0 +1,6 @@
+conda install ujson
+pip install v20
+
+pip install git+https://github.com/yhilpisch/tpqoa
+
+These libraries are needed to run the traders
